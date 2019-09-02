@@ -4,3 +4,7 @@ plugins:
 remote_theme: chromatical/jekyll-materialdocs
 search: false
 theme: jekyll-theme-minimal
+include:
+  - index.md
+  - schedule-phase1.md
+  - software.md
